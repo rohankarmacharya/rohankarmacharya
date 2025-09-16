@@ -1,79 +1,64 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rohankarmacharya/rohankarmacharya/main/banner-dark.gif" alt="Rohan Karmacharya Banner" width="100%" />
-</div>
+# Hi, I'm Rohan Karmacharya 👋
 
-# 👋 Hi, I'm Rohan Karmacharya
-
-**Software Developer | Open-Source Contributor | Tech Explorer**  
-
-I build **web apps, APIs, and AI-powered solutions**, share knowledge, and contribute to the open-source community. Turning ideas into projects and continuously learning is my passion.  
+Welcome to my GitHub! I'm a **Full Stack Developer** and **Digital Business Founder**, passionate about building innovative software solutions and contributing to open-source projects.
 
 ---
 
-## 🚀 What I’m Working On
-- 🌐 **Full-Stack Web Apps** – React, Node.js, Python  
-- 🤖 **AI & ML experiments**  
-- 🔗 **Open-source collaborations**  
+## 🔭 Currently Working On
+- 💻 Personal projects & open-source contributions
+- ☁️ Learning advanced web technologies and cloud computing
+
+## 🌱 Currently Learning
+- 🤖 AI integration & advanced system design
+- ⚡ Scalable web architectures
+
+## 👯 Collaboration
+- 🌐 Open-source software & web applications
+- 📊 Tech-driven digital business solutions
+
+## 💬 Ask Me About
+- 🖥️ Programming, system design, software architecture
+- 💡 Digital business strategies and tech innovations
+
+## 📫 Contact Me
+- ✉️ [rohankarmacharya@gmail.com](mailto:rohankarmacharya@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/rohankarmacharya)
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white&animation=glitch" />
-<img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black&animation=glitch" />
-<img src="https://img.shields.io/badge/React-18.x-blue?style=for-the-badge&logo=react&logoColor=white&animation=glitch" />
-<img src="https://img.shields.io/badge/Node.js-20.x-green?style=for-the-badge&logo=node.js&logoColor=white&animation=glitch" />
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&animation=glitch" />
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white&animation=glitch" />
-<img src="https://img.shields.io/badge/Git-2.x-red?style=for-the-badge&logo=git&logoColor=white&animation=glitch" />
-<img src="https://img.shields.io/badge/Docker-20.x-blue?style=for-the-badge&logo=docker&logoColor=white&animation=glitch" />
-<img src="https://img.shields.io/badge/MySQL-8.x-blue?style=for-the-badge&logo=mysql&logoColor=white&animation=glitch" />
-</div>
+| Frontend | Backend | Database | Tools & Platforms |
+|----------|---------|----------|-----------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rohankarmacharya&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankarmacharya&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankarmacharya&show_icons=true&theme=radical)
 
----
-
-## 🔗 Connect with Me  
-
-<div align="center">
-<a href="https://www.linkedin.com/in/rohankarmacharya/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rohan-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=glitch" />
-</a>
-<a href="https://twitter.com/rohankarmacharya">
-  <img src="https://img.shields.io/badge/Twitter-@rohankarmacharya-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=glitch" />
-</a>
-<a href="https://rohankarmacharya.com">
-  <img src="https://img.shields.io/badge/Portfolio-Rohan-green?style=for-the-badge&logo=google-chrome&logoColor=white&animation=glitch" />
-</a>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankarmacharya&layout=compact&theme=radical)
 
 ---
 
-## 🌟 Highlights
-- ⭐ Contributed to multiple **open-source projects**  
-- 💡 Built and deployed **full-stack web apps**  
-- 🌱 Continuously **learning new technologies**  
-- 🎯 Passionate about **sharing knowledge and mentoring**  
+## 💡 Featured Projects
+
+### **SujhavMitra**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+Recommendation & moderation system for movies and books
+
+### **Digital Yatra Nepal**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)  
+E-governance tourism system
+
+### **Bodhya Apparel**
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+Fashion business dashboard & record-keeping system
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=github&logoColor=white&animation=glitch)](https://github.com/rohankarmacharya/portfolio-website)
-[![Book Recommender](https://img.shields.io/badge/Book-Recommender-green?style=for-the-badge&logo=github&logoColor=white&animation=glitch)](https://github.com/rohankarmacharya/book-recommender)
-[![Movie Recommender](https://img.shields.io/badge/Movie-Recommender-red?style=for-the-badge&logo=github&logoColor=white&animation=glitch)](https://github.com/rohankarmacharya/movie-recommender)
-</div>
-
----
-
-
+## ⚡ Fun Fact
+I enjoy creating tech solutions that make daily life easier and more productive.
