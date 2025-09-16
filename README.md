@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Rohan Karmacharya 👋
 
-<!--
-**rohankarmacharya/rohankarmacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development, open-source, and continuous learning.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on exciting software projects
+- 🌱 Always learning new technologies and frameworks
+- 👯 Looking to collaborate on open-source and impactful ideas
+- 💬 Ask me about programming, problem solving, or anything tech
+- 📫 How to reach me: [Add your email or website]
+- ⚡ Fun fact: I enjoy exploring new tech and sharing knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+<!-- Add your top skills and tools here -->
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![React](https://img.shields.io/badge/React-18.x-blue)
+![Node.js](https://img.shields.io/badge/Node.js-20.x-green)
+<!-- Add more as needed -->
+
+## 📈 GitHub Stats
+
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankarmacharya&show_icons=true&theme=radical)
+
+## 🔗 Connect with me
+
+<!-- Add your social links -->
+[LinkedIn](https://www.linkedin.com/in/rohankarmacharya/)
+[Twitter](https://twitter.com/rohankarmacharya)
+[Portfolio/Website](#) <!-- Replace with your URL -->
+
+---
+
+Thanks for visiting my profile! 🚀
