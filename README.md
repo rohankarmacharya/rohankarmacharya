@@ -25,9 +25,16 @@ I love learning, building projects, and contributing to open-source.
 - Full Stack development concepts
 - Tech-driven business ideas
 
-## 📫 Contact
-- ✉️ [rohankarmacharya@gmail.com](mailto:rohankarmacharya@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/rohankarmacharya)
+---
+
+## 📫 Contact & Social Links
+- ✉️ Professional Email: [rohankarmacharya.biz@gmail.com](mailto:rohankarmacharya.biz@gmail.com)  
+- ✉️ Personal Email: [rohankarmacharya110@gmail.com](mailto:rohankarmacharya110@gmail.com)  
+- 🌐 Website: [rohankarmacharya.unaux.com](http://rohankarmacharya.unaux.com)  
+- 🔗 LinkedIn: [Rohan Karmacharya](https://www.linkedin.com/in/rohan-karmacharya-1290a2385/)  
+- 📸 Instagram: [@rohankarmacharya9](https://www.instagram.com/rohankarmacharya9/)  
+- 👍 Facebook: [Rohan Karmacharya](https://www.facebook.com/rohan.karmacharya.71)  
+- 📞 Phone: +977 9843736378
 
 ---
 
@@ -53,7 +60,7 @@ I love learning, building projects, and contributing to open-source.
 
 ### **SujhavMitra**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-A recommendation & moderation system for movies and books (learning project)
+Recommendation & moderation system for movies and books (learning project)
 
 ### **Digital Yatra Nepal**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)  
@@ -66,4 +73,4 @@ Fashion business dashboard & record-keeping system (learning project)
 ---
 
 ## ⚡ Fun Fact
-I enjoy exploring new technologies, building small projects, and planning for my journey as a full stack developer and digital entrepreneur.
+I write code that looks like spaghetti, but it’s gourmet spaghetti. 🍝
