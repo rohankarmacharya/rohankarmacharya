@@ -1,35 +1,37 @@
 # Hi, I'm Rohan Karmacharya 👋
 
-Welcome to my GitHub! I'm a **BSc. CSIT student**, aspiring **Full Stack Developer**, **Python Developer**, and **Digital Business Founder**. I’m passionate about learning, building innovative software solutions, and contributing to open-source projects.
+I’m a **BSc. CSIT student** passionate about technology and digital business. Aspiring **Full Stack Developer**, **Python Developer**, and **Digital Business Founder**.  
+I love learning, building projects, and contributing to open-source.
 
 ---
 
-## 🔭 Currently Working On
-- 💻 Personal learning projects & practice assignments
-- ☁️ Exploring web development and Python applications
-- 📚 Preparing for real-world software development
+## 🔭 What I'm Working On
+- Personal learning projects in Python and web development
+- Exploring Full Stack development (React, Node.js, ASP.NET)
+- Planning digital business and tech solutions
 
 ## 🌱 Currently Learning
-- 🌐 Full Stack Development (React, Node.js, ASP.NET)
-- 🐍 Python programming and data handling
-- ⚡ Scalable web architectures and system design
-- 💡 Digital business strategies and tech entrepreneurship
+- Advanced Python and data handling
+- Full Stack web applications
+- Scalable system design and architecture
+- Digital entrepreneurship and tech strategies
 
 ## 👯 Collaboration
-- 🌐 Open-source software contributions
-- 📊 Collaborative learning projects with fellow students
+- Open-source projects and coding communities
+- Peer learning and collaborative projects
 
 ## 💬 Ask Me About
-- 🖥️ Programming, coding challenges, and learning resources
-- 💡 Digital business concepts and startup ideas
+- Programming and coding challenges
+- Full Stack development concepts
+- Tech-driven business ideas
 
-## 📫 Contact Me
+## 📫 Contact
 - ✉️ [rohankarmacharya@gmail.com](mailto:rohankarmacharya@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/rohankarmacharya)
 
 ---
 
-## 🛠️ Tech Stack / Skills
+## 🛠️ Tech Stack
 
 | Frontend | Backend | Database | Tools & Platforms |
 |----------|---------|----------|-----------------|
@@ -41,17 +43,17 @@ Welcome to my GitHub! I'm a **BSc. CSIT student**, aspiring **Full Stack Develop
 
 ## 📈 GitHub Stats
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankarmacharya&show_icons=true&theme=radical)
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankarmacharya&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankarmacharya&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankarmacharya&layout=compact&theme=vue)
 
 ---
 
-## 💡 Featured Projects / Learning Highlights
+## 💡 Featured Projects
 
 ### **SujhavMitra**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-Recommendation & moderation system for movies and books (learning project)
+A recommendation & moderation system for movies and books (learning project)
 
 ### **Digital Yatra Nepal**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)  
