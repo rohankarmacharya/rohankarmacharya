@@ -1,24 +1,27 @@
 # Hi, I'm Rohan Karmacharya 👋
 
-Welcome to my GitHub! I'm a **Full Stack Developer** and **Digital Business Founder**, passionate about building innovative software solutions and contributing to open-source projects.
+Welcome to my GitHub! I'm a **BSc. CSIT student**, aspiring **Full Stack Developer**, **Python Developer**, and **Digital Business Founder**. I’m passionate about learning, building innovative software solutions, and contributing to open-source projects.
 
 ---
 
 ## 🔭 Currently Working On
-- 💻 Personal projects & open-source contributions
-- ☁️ Learning advanced web technologies and cloud computing
+- 💻 Personal learning projects & practice assignments
+- ☁️ Exploring web development and Python applications
+- 📚 Preparing for real-world software development
 
 ## 🌱 Currently Learning
-- 🤖 AI integration & advanced system design
-- ⚡ Scalable web architectures
+- 🌐 Full Stack Development (React, Node.js, ASP.NET)
+- 🐍 Python programming and data handling
+- ⚡ Scalable web architectures and system design
+- 💡 Digital business strategies and tech entrepreneurship
 
 ## 👯 Collaboration
-- 🌐 Open-source software & web applications
-- 📊 Tech-driven digital business solutions
+- 🌐 Open-source software contributions
+- 📊 Collaborative learning projects with fellow students
 
 ## 💬 Ask Me About
-- 🖥️ Programming, system design, software architecture
-- 💡 Digital business strategies and tech innovations
+- 🖥️ Programming, coding challenges, and learning resources
+- 💡 Digital business concepts and startup ideas
 
 ## 📫 Contact Me
 - ✉️ [rohankarmacharya@gmail.com](mailto:rohankarmacharya@gmail.com)  
@@ -26,7 +29,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** and **Digital Business Foun
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack / Skills
 
 | Frontend | Backend | Database | Tools & Platforms |
 |----------|---------|----------|-----------------|
@@ -44,21 +47,21 @@ Welcome to my GitHub! I'm a **Full Stack Developer** and **Digital Business Foun
 
 ---
 
-## 💡 Featured Projects
+## 💡 Featured Projects / Learning Highlights
 
 ### **SujhavMitra**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-Recommendation & moderation system for movies and books
+Recommendation & moderation system for movies and books (learning project)
 
 ### **Digital Yatra Nepal**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)  
-E-governance tourism system
+E-governance tourism system (learning project)
 
 ### **Bodhya Apparel**
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-Fashion business dashboard & record-keeping system
+Fashion business dashboard & record-keeping system (learning project)
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy creating tech solutions that make daily life easier and more productive.
+I enjoy exploring new technologies, building small projects, and planning for my journey as a full stack developer and digital entrepreneur.
