@@ -1,8 +1,14 @@
+<!-- Animated Header -->
+![Header](your-animated-header.gif)
+
 # Hi, I'm Rohan Karmacharya 👋
 
 Welcome to my GitHub! I'm a **Full Stack Developer** and **Digital Business Founder**, passionate about building innovative software solutions and contributing to open-source projects.
 
 ---
+
+<!-- Animated Divider -->
+![Divider](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
 
 ## 🔭 Currently Working On
 - 💻 Personal projects & open-source contributions
@@ -62,3 +68,6 @@ Fashion business dashboard & record-keeping system
 
 ## ⚡ Fun Fact
 I enjoy creating tech solutions that make daily life easier and more productive.
+
+<!-- Animated Footer Divider -->
+![Divider](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
