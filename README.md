@@ -30,7 +30,7 @@ I love learning, building projects, and contributing to open-source.
 ## 📫 Contact & Social Links
 - ✉️ Professional Email: [rohankarmacharya.biz@gmail.com](mailto:rohankarmacharya.biz@gmail.com)  
 - ✉️ Personal Email: [rohankarmacharya110@gmail.com](mailto:rohankarmacharya110@gmail.com)  
-- 🌐 Website: [rohankarmacharya.unaux.com]([http://rohankarmacharya.unaux.com](https://my-portfolio-two-sigma-z37cyvf5yz.vercel.app/))  
+- 🌐 Website: [rohankarmacharya.unaux.com]([https://my-portfolio-two-sigma-z37cyvf5yz.vercel.app/])  
 - 🔗 LinkedIn: [Rohan Karmacharya](https://www.linkedin.com/in/rohan-karmacharya-1290a2385/)  
 - 📸 Instagram: [@rohankarmacharya9](https://www.instagram.com/rohankarmacharya9/)  
 - 👍 Facebook: [Rohan Karmacharya](https://www.facebook.com/rohan.karmacharya.71)  
