@@ -1,6 +1,6 @@
 # Hi, I'm Rohan Karmacharya 👋
 
-I’m a **BSc. CSIT student** passionate about technology and digital business. Aspiring **Full Stack Developer**, **Python Developer**, and **Digital Business Founder**.  
+I’m a **BSc. CSIT student** passionate about technology and digital business.
 I love learning, building projects, and contributing to open-source.
 
 ---
@@ -19,11 +19,7 @@ I love learning, building projects, and contributing to open-source.
 ## 👯 Collaboration
 - Open-source projects and coding communities
 - Peer learning and collaborative projects
-
-## 💬 Ask Me About
-- Programming and coding challenges
-- Full Stack development concepts
-- Tech-driven business ideas
+]
 
 ---
 
