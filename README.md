@@ -68,6 +68,3 @@ E-governance tourism system (learning project)
 Fashion business dashboard & record-keeping system (learning project)
 
 ---
-
-## ⚡ Fun Fact
-I write code that looks like spaghetti, but it’s gourmet spaghetti. 🍝
