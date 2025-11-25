@@ -75,4 +75,9 @@ E-governance tourism system (learning project)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 Fashion business dashboard & record-keeping system (learning project)
 
+### **Barcode & PDF417 Reader**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+Web application to read and decode Barcode and PDF417 codes using React frontend and Python backend (learning project)
+
 ---
