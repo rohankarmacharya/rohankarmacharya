@@ -7,7 +7,7 @@ I love learning, building projects, and contributing to open-source.
 
 ## 🔭 What I'm Working On
 - Personal learning projects in Python and web development  
-- Exploring Full Stack development (React, Node.js, ASP.NET)  
+- Exploring Full Stack development (React, Next.js, Python)  
 - Planning digital business and tech solutions  
 
 ## 🌱 Currently Learning
