@@ -20,11 +20,6 @@ I love learning, building projects, and contributing to open-source.
 - Open-source projects and coding communities  
 - Peer learning and collaborative projects  
 
-## 💬 Ask Me About
-- Programming and coding challenges  
-- Full Stack development concepts  
-- Tech-driven business ideas  
-
 ---
 
 ## 📫 Contact & Social Links
