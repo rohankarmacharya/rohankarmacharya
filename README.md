@@ -48,8 +48,6 @@ I love learning, building projects, and contributing to open-source.
 
 ![Rohan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rohankarmacharya&show_icons=true&theme=vue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankarmacharya&layout=compact&theme=vue)
-
 ---
 
 ## 💡 Featured Projects
