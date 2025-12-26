@@ -1,8 +1,6 @@
 # Hi, I'm Rohan Karmacharya 👋  
 
 I’m a **BSc. CSIT student** passionate about technology and digital business.  
-I love learning, building projects, and contributing to open-source.
-
 ---
 
 ## 🔭 What I'm Working On
