@@ -1,6 +1,6 @@
 # Hi, I'm Rohan Karmacharya 👋  
 
-I’m a **BSc. CSIT student** passionate about technology and digital business.  
+I’m a **BSc. CSIT graduate and Junior Backend Developer** passionate about technology and digital business.  
 ---
 
 ## 🔭 What I'm Working On
