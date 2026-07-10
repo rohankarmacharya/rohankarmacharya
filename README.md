@@ -81,7 +81,12 @@ Rohan Karmacharya:
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,supabase&theme=dark" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,jira,slack,vscode,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel,notion,linux&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
 </div>
 
