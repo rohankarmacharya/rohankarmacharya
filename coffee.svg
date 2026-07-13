@@ -1,0 +1,29 @@
+<svg width="90" height="94" viewBox="0 0 115 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Saucer -->
+  <ellipse cx="50" cy="103" rx="36" ry="5.5" fill="none" stroke="#8F9DFF" stroke-width="2.5"/>
+
+  <!-- Steam wisps -->
+  <g stroke="#8F9DFF" stroke-width="2.2" fill="none" stroke-linecap="round">
+    <path d="M0,47 C-6,41 6,35 0,29 C-6,23 6,17 0,11" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.25;0.75;1" dur="2.6s" begin="0s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="32,10;32,-16" dur="2.6s" begin="0s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0,47 C-6,41 6,35 0,29 C-6,23 6,17 0,11" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.25;0.75;1" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="50,10;50,-16" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0,47 C-6,41 6,35 0,29 C-6,23 6,17 0,11" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.25;0.75;1" dur="2.6s" begin="1.6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="68,10;68,-16" dur="2.6s" begin="1.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Cup body -->
+  <path d="M27,55 L73,55 L66,95 Q66,99 62,99 L38,99 Q34,99 34,95 Z" fill="#302b63" stroke="#8F9DFF" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- Handle -->
+  <path d="M73,63 C93,63 93,87 73,87" fill="none" stroke="#8F9DFF" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Rim -->
+  <ellipse cx="50" cy="55" rx="23" ry="5" fill="#1a1640" stroke="#8F9DFF" stroke-width="2.5"/>
+</svg>
