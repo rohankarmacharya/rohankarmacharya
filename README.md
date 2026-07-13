@@ -168,7 +168,7 @@ Web app to read and decode Barcode and PDF417 codes.
 |📧 Professional|[rohankarmacharya.biz@gmail.com](mailto:rohankarmacharya.biz@gmail.com)|
 |📧 Personal|[rohankarmacharya110@gmail.com](mailto:rohankarmacharya110@gmail.com)|
 |📞 Phone|+977 9843736378|
-|🌐 Portfolio|[Visit my website](https://my-portfolio-two-sigma-z37cyvf5yz.vercel.app/)|
+|🌐 Portfolio|[Visit my website](https://rohankarmacharya-portfolio2.vercel.app/)|
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="70"/>
 
