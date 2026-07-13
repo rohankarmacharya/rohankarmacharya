@@ -39,6 +39,10 @@
 
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/rohankarmacharya/rohankarmacharya/main/coffee.svg" width="70" alt="Fueled by coffee" />
+</div>
+
 <img src="https://raw.githubusercontent.com/rohankarmacharya/rohankarmacharya/main/divider.svg" width="100%" height="6"/>
 
 <div align="center">
