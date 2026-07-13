@@ -1,4 +1,4 @@
-<div align="center">
+c<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2600&pause=900&color=8F9DFF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohan+Karmacharya;BSc.+CSIT+Graduate;Junior+Backend+Developer;Full+Stack+Enthusiast" alt="Typing SVG" />
 
@@ -106,7 +106,7 @@ Recommendation & moderation system for movies and books.
 </td>
 <td width="50%" valign="top">
 
-### 🧳 Digital Yatra Nepal
+### 🗺️ Digital Yatra Nepal
 E-governance tourism system built for digital tourism management.
 <br/>
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white)
@@ -117,7 +117,7 @@ E-governance tourism system built for digital tourism management.
 <tr>
 <td width="50%" valign="top">
 
-### 👗 Bodhya Apparel
+### 👕 Bodhya Apparel
 Fashion business dashboard & record-keeping system.
 <br/>
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white)
