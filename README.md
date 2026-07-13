@@ -27,36 +27,23 @@
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="8%" align="center">🎓</td>
-<td>BSc. CSIT graduate, currently working as a <strong>Junior Backend Developer</strong></td>
-</tr>
-<tr>
-<td align="center">🔭</td>
-<td>Currently building personal learning projects in <strong>Python</strong> and <strong>Full Stack Web Development</strong></td>
-</tr>
-<tr>
-<td align="center">🌱</td>
-<td>Deepening my skills in <strong>React, Next.js, NestJS, ExpressJS, and Golang</strong></td>
-</tr>
-<tr>
-<td align="center">📐</td>
-<td>Learning <strong>scalable system design &amp; architecture</strong></td>
-</tr>
-<tr>
-<td align="center">💼</td>
-<td>Exploring <strong>digital entrepreneurship</strong> and tech-driven business solutions</td>
-</tr>
-<tr>
-<td align="center">👯</td>
-<td>Open to collaborating on <strong>open-source projects</strong> and peer learning initiatives</td>
-</tr>
-<tr>
-<td align="center">⚡</td>
-<td>Fun fact: I enjoy turning small side projects into fully working products</td>
-</tr>
-</table>
+<div align="center">
+
+🎓&nbsp;&nbsp;BSc. CSIT graduate, currently working as a <strong>Junior Backend Developer</strong>
+<br/><br/>
+🔭&nbsp;&nbsp;Currently building personal learning projects in <strong>Python</strong> and <strong>Full Stack Web Development</strong>
+<br/><br/>
+🌱&nbsp;&nbsp;Deepening my skills in <strong>React, Next.js, NestJS, ExpressJS, and Golang</strong>
+<br/><br/>
+📐&nbsp;&nbsp;Learning <strong>scalable system design &amp; architecture</strong>
+<br/><br/>
+💼&nbsp;&nbsp;Exploring <strong>digital entrepreneurship</strong> and tech-driven business solutions
+<br/><br/>
+👯&nbsp;&nbsp;Open to collaborating on <strong>open-source projects</strong> and peer learning initiatives
+<br/><br/>
+⚡&nbsp;&nbsp;Fun fact: I enjoy turning small side projects into fully working products
+
+</div>
 
 <div align="center">
 
