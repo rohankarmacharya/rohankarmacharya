@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Rohan%20Karmacharya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSc.%20CSIT%20Graduate%20%7C%20Junior%20Backend%20Developer%20%7C%20Full%20Stack%20Enthusiast&descAlignY=58&descSize=18&descColor=8f9dff" width="100%"/>
-
-<a href="https://my-portfolio-two-sigma-z37cyvf5yz.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8F9DFF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=Building+scalable+systems...;One+line+of+code+at+a+time." alt="Typing SVG" />
-</a>
+<img src="./terminal-hero.svg" width="100%"/>
 
 <br/><br/>
 
@@ -14,9 +10,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rohan.karmacharya.71)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohankarmacharya.biz@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 </div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
 
@@ -180,52 +175,6 @@ Web app to read and decode Barcode and PDF417 codes.
 </div>
 
 > **Note:** These widgets pull live from `rohankarmacharya`'s GitHub activity via third-party rendering services. They occasionally load slowly or time out on first paint — refreshing the page usually fixes it.
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=60&section=header&text=%F0%9F%8F%86%20Trophies&fontSize=28&fontColor=8F9DFF&animation=twinkling&fontAlignY=60" width="100%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=rohankarmacharya&theme=tokyonight&no-frame=true&row=1&column=7&animation=slideIn" width="100%"/>
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=60&section=header&text=%F0%9F%90%8D%20Contribution%20Snake&fontSize=28&fontColor=8F9DFF&animation=twinkling&fontAlignY=60" width="100%"/>
-
-<!--
-  This animated snake eats your contribution graph, one square at a time.
-  Setup (one-time, ~2 min):
-  1. Create .github/workflows/snake.yml in your PROFILE repo with the action below.
-  2. Push to main — it runs on a schedule and commits the generated SVG to an "output" branch.
-  3. The image link below will then render automatically.
-
-  ---
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 */6 * * *"
-    workflow_dispatch:
-    push:
-      branches: [ main ]
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: dist/github-contribution-grid-snake.svg
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<img src="https://raw.githubusercontent.com/rohankarmacharya/rohankarmacharya/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
 
