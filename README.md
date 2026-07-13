@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&section=header&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=70&section=header&text=About%20Me&fontSize=32&fontColor=8F9DFF&animation=twinkling&fontAlignY=65" width="100%"/>
@@ -69,7 +69,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&section=header&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=70&section=header&text=Tech%20Stack&fontSize=32&fontColor=8F9DFF&animation=twinkling&fontAlignY=65" width="100%"/>
@@ -112,7 +112,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&section=header&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=70&section=header&text=Featured%20Projects&fontSize=32&fontColor=8F9DFF&animation=twinkling&fontAlignY=65" width="100%"/>
@@ -163,10 +163,11 @@ Web app to read and decode Barcode and PDF417 codes.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&section=header&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=70&section=header&text=GitHub%20Stats&fontSize=32&fontColor=8F9DFF&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=400&color=8F9DFF&center=true&vCenter=true&multiline=false&repeat=true&width=450&height=30&lines=%F0%9F%94%B4+Live+data+%E2%80%94+refreshed+on+every+visit" alt="live data indicator" />
 </div>
 
 <div align="center">
@@ -178,17 +179,18 @@ Web app to read and decode Barcode and PDF417 codes.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohankarmacharya&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
-> **Note:** Some stat widgets (streak & activity graph) rely on third-party services and may need your GitHub username re-verified once your repo is live — replace `rohankarmacharya` above if your actual GitHub handle differs.
+> **Note:** These widgets pull live from `rohankarmacharya`'s GitHub activity via third-party rendering services. They occasionally load slowly or time out on first paint — refreshing the page usually fixes it.
 
-### 🏆 Trophies (animated reveal)
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=60&section=header&text=%F0%9F%8F%86%20Trophies&fontSize=28&fontColor=8F9DFF&animation=twinkling&fontAlignY=60" width="100%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=rohankarmacharya&theme=tokyonight&no-frame=true&row=1&column=7&animation=slideIn" width="100%"/>
 </div>
 
 <div align="center">
 
-### 🐍 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=60&section=header&text=%F0%9F%90%8D%20Contribution%20Snake&fontSize=28&fontColor=8F9DFF&animation=twinkling&fontAlignY=60" width="100%"/>
 
 <!--
   This animated snake eats your contribution graph, one square at a time.
@@ -225,7 +227,7 @@ Web app to read and decode Barcode and PDF417 codes.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&section=header&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=70&section=header&text=Let's%20Connect&fontSize=32&fontColor=8F9DFF&animation=twinkling&fontAlignY=65" width="100%"/>
