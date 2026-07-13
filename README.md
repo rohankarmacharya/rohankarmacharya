@@ -29,11 +29,11 @@
 
 <div align="center">
 
-🎓&nbsp;&nbsp;BSc. CSIT graduate, currently working as a <strong>Junior Backend Developer</strong>
+🎓&nbsp;&nbsp;<strong>Junior Backend Developer</strong> by day, still a student of the craft every day
 <br/><br/>
 🔭&nbsp;&nbsp;Currently building personal learning projects in <strong>Python</strong> and <strong>Full Stack Web Development</strong>
 <br/><br/>
-🌱&nbsp;&nbsp;Deepening my skills in <strong>React, Next.js, NestJS, ExpressJS, and Golang</strong>
+🌱&nbsp;&nbsp;Rounding out my stack: <strong>React/Next.js on the front, NestJS/Express/Go on the back</strong>
 <br/><br/>
 📐&nbsp;&nbsp;Learning <strong>scalable system design &amp; architecture</strong>
 <br/><br/>
@@ -41,7 +41,7 @@
 <br/><br/>
 👯&nbsp;&nbsp;Open to collaborating on <strong>open-source projects</strong> and peer learning initiatives
 <br/><br/>
-⚡&nbsp;&nbsp;Fun fact: I enjoy turning small side projects into fully working products
+⚡&nbsp;&nbsp;Fun fact: 90% of my debugging is just staring until I feel guilty enough to fix it
 
 </div>
 
