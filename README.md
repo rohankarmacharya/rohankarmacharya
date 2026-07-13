@@ -28,21 +28,7 @@
 </div>
 
 <div align="center">
-
-🎓&nbsp;&nbsp;<strong>Junior Backend Developer</strong> by day, still a student of the craft every day
-<br/><br/>
-🔭&nbsp;&nbsp;Currently building personal learning projects in <strong>Python</strong> and <strong>Full Stack Web Development</strong>
-<br/><br/>
-🌱&nbsp;&nbsp; Rounding out my stack: <strong>React/Next.js</strong> on the front, <strong>NestJS/Express/Go</strong> on the back
-<br/><br/>
-📐&nbsp;&nbsp;Learning <strong>scalable system design &amp; architecture</strong>
-<br/><br/>
-💼&nbsp;&nbsp;Exploring <strong>digital entrepreneurship</strong> and tech-driven business solutions
-<br/><br/>
-👯&nbsp;&nbsp;Open to collaborating on <strong>open-source projects</strong> and peer learning initiatives
-<br/><br/>
-⚡&nbsp;&nbsp;Fun fact: 90% of my debugging is just staring until I feel guilty enough to fix it
-
+<img src="https://raw.githubusercontent.com/rohankarmacharya/rohankarmacharya/main/whoami-terminal (1).svg" width="520"/>
 </div>
 
 <div align="center">
