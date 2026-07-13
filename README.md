@@ -13,7 +13,7 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
+<img src="https://raw.githubusercontent.com/rohankarmacharya/rohankarmacharya/main/assets/divider.svg" width="100%" height="6"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=70&section=header&text=About%20Me&fontSize=32&fontColor=8F9DFF&animation=twinkling&fontAlignY=65" width="100%"/>
@@ -27,23 +27,36 @@
 
 </div>
 
-<div align="center">
-
-🎓&nbsp;&nbsp;BSc. CSIT graduate, currently working as a <strong>Junior Backend Developer</strong>
-<br/><br/>
-🔭&nbsp;&nbsp;Currently building personal learning projects in <strong>Python</strong> and <strong>Full Stack Web Development</strong>
-<br/><br/>
-🌱&nbsp;&nbsp;Deepening my skills in <strong>React, Next.js, NestJS, ExpressJS, and Golang</strong>
-<br/><br/>
-📐&nbsp;&nbsp;Learning <strong>scalable system design &amp; architecture</strong>
-<br/><br/>
-💼&nbsp;&nbsp;Exploring <strong>digital entrepreneurship</strong> and tech-driven business solutions
-<br/><br/>
-👯&nbsp;&nbsp;Open to collaborating on <strong>open-source projects</strong> and peer learning initiatives
-<br/><br/>
-⚡&nbsp;&nbsp;Fun fact: I enjoy turning small side projects into fully working products
-
-</div>
+<table width="100%">
+<tr>
+<td width="8%" align="center">🎓</td>
+<td>BSc. CSIT graduate, currently working as a <strong>Junior Backend Developer</strong></td>
+</tr>
+<tr>
+<td align="center">🔭</td>
+<td>Currently building personal learning projects in <strong>Python</strong> and <strong>Full Stack Web Development</strong></td>
+</tr>
+<tr>
+<td align="center">🌱</td>
+<td>Deepening my skills in <strong>React, Next.js, NestJS, ExpressJS, and Golang</strong></td>
+</tr>
+<tr>
+<td align="center">📐</td>
+<td>Learning <strong>scalable system design &amp; architecture</strong></td>
+</tr>
+<tr>
+<td align="center">💼</td>
+<td>Exploring <strong>digital entrepreneurship</strong> and tech-driven business solutions</td>
+</tr>
+<tr>
+<td align="center">👯</td>
+<td>Open to collaborating on <strong>open-source projects</strong> and peer learning initiatives</td>
+</tr>
+<tr>
+<td align="center">⚡</td>
+<td>Fun fact: I enjoy turning small side projects into fully working products</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -51,7 +64,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
+<img src="https://raw.githubusercontent.com/rohankarmacharya/rohankarmacharya/main/assets/divider.svg" width="100%" height="6"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=70&section=header&text=Tech%20Stack&fontSize=32&fontColor=8F9DFF&animation=twinkling&fontAlignY=65" width="100%"/>
@@ -94,7 +107,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
+<img src="https://raw.githubusercontent.com/rohankarmacharya/rohankarmacharya/main/assets/divider.svg" width="100%" height="6"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=70&section=header&text=Featured%20Projects&fontSize=32&fontColor=8F9DFF&animation=twinkling&fontAlignY=65" width="100%"/>
@@ -145,7 +158,7 @@ Web app to read and decode Barcode and PDF417 codes.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
+<img src="https://raw.githubusercontent.com/rohankarmacharya/rohankarmacharya/main/assets/divider.svg" width="100%" height="6"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=70&section=header&text=GitHub%20Stats&fontSize=32&fontColor=8F9DFF&animation=twinkling&fontAlignY=65" width="100%"/>
@@ -163,7 +176,7 @@ Web app to read and decode Barcode and PDF417 codes.
 
 > **Note:** These widgets pull live from `rohankarmacharya`'s GitHub activity via third-party rendering services. They occasionally load slowly or time out on first paint — refreshing the page usually fixes it.
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:302b63,100:0f0c29&height=3&animation=twinkling&section=header&width=100%" width="100%"/>
+<img src="https://raw.githubusercontent.com/rohankarmacharya/rohankarmacharya/main/assets/divider.svg" width="100%" height="6"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=70&section=header&text=Let's%20Connect&fontSize=32&fontColor=8F9DFF&animation=twinkling&fontAlignY=65" width="100%"/>
